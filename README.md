@@ -6,3 +6,5 @@ This is my blog using Hexo and Material. This is great!
 MIT License
 
 ### Thanks to [hexo](https://hexo.io) and [material](https://github.com/viosey/hexo-theme-material)
+
+Created by [Darryl](https://thereal-website.com)
